@@ -1,0 +1,42 @@
+# miscellaneous optimizations :-
+
+alias c=clear
+alias nf=neofetch
+alias clean="sudo apt autoclean"
+alias remove="sudo apt autoremove"
+alias update="sudo apt update && sudo apt upgrade -y"
+alias Iam="cd pavdaa"
+alias scratch="cd /mnt/c/Users/sroy8/Docs/Dev_Lab/"
+
+# git-specific :-
+
+alias gset="git push -u origin HEAD"
+alias gd="git diff"
+alias ga="git add"
+alias gb="git branch"
+alias gs="git status"
+alias gc="git clone"
+alias gl="git log"
+alias glo="git log --oneline"
+alias gck="git checkout"
+alias gckb="git checkout -b"
+alias gckd="gck development"
+alias gcm="git commit -m"
+alias gmfd="git merge --ff development"
+alias src_pro="source ~/.zprofile"
+alias src_rc="source ~/.zshrc"
+alias grs="git restore --staged"
+alias gpuo="git push -u origin"
+alias pip="/Library/Frameworks/Python.framework/Versions/3.11/bin/pip3"
+alias python="/usr/bin/python3"
+alias own="sudo chown -R $USERNAME"
+
+
+# for ease of navigation :-
+
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+
