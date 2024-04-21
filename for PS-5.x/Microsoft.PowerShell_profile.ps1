@@ -71,7 +71,7 @@ if(Test-Path alias:gc) { del alias:gc -Force }
 # the below command - "Remove-Alias is not recognized in PowerShell-5, but in PowerShell-7, hence I've commented it here
 # if (Get-Alias -Name "gc" -ErrorAction SilentlyContinue) { Remove-Alias -Name "gc" -Force }
 #------------------------------------------------------
-function  gc ($repo)      {git clone $repo} 
+function  gcl ($repo)      {git clone $repo} 
 function  gb              {git branch}
 function  gs              {git status}
 function  gcm  ($message) {git commit -m $message}
