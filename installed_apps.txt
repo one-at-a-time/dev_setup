@@ -1,0 +1,46 @@
+Autohotkey (for customizations)
+
+Brave browser (for ad free videos and music + time shown on browser)
+
+Chrome
+
+Ditto (windows alternative to maccy)
+
+Git
+
+Girhub CLI
+
+Github Desktop
+
+MS VS Code
+
+OBS
+
+Obsidian
+
+Oh My Posh
+
+PowerToys (from MS Store)
+
+Taskade (from MS Store)
+
+Terminal (from MS Store)
+
+Text Blaze (from MS Store)
+
+Ubuntu (for WSL) (from MS Store)
+
+VST Plugins (GForm and Vahalla Super Massive) for audio filters in OBS 
+
+WinXCorners (for creating hot corner functionality as in mac)
+
+Wondershare Filmora
+
+Zoom
+
+
+
+----------------------------
+
+
+
